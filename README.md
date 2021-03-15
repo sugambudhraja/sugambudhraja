@@ -38,12 +38,13 @@ Here are some ideas to get you started:
     <img alt="Spotify" title="Spotify" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/spotify.svg"></a>
   <a href="https://twitch.tv/fiestyyoda">
     <img alt="Twitch" title="Twitch" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/twitch.svg"></a>
-  <a href="https://soundcloud.com/sugam_budhraja">
-    <img alt="SoundCloud" title="SoundCloud" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/soundcloud.svg"></a>
+  <a href="https://www.youtube.com/channel/UCiL_Oo0yAxFdRnsUw2lfjUw">
+    <img alt="YouTube" title="YouTube" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/youtube.svg"></a>
   <a href="https://myanimelist.net/profile/FiestyYoda">
     <img alt="MyAnimeList" title="MyAnimeList" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/myanimelist.svg"></a>
-  <!--<a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA">
-    <img alt="YouTube" title="YouTube" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/youtube.svg"></a>-->
+  <a href="https://soundcloud.com/sugam_budhraja">
+    <img alt="SoundCloud" title="SoundCloud" height="25" width="25" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/soundcloud.svg"></a>
+
 </p>
 
 I'm currently pursuing a PhD at AUT working on prognosis of mental health disorders from mRNA sequences and cognitive tests using explainable AI models.
