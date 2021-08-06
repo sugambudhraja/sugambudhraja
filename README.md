@@ -76,6 +76,8 @@ Machine Learning
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/ "TensorFlow")
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/ "Scikit-Learn")
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)](https://numpy.org/ "NumPy")
+[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://www.scipy.org/ "SciPy")
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/ "OpenCV")
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/ "Pandas")
 
 Software Development
