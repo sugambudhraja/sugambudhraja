@@ -92,6 +92,6 @@ Software Development
 
 ### Github Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugam1111&show_icons=true&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugambudhraja&show_icons=true&theme=cobalt)
 
 ![](https://komarev.com/ghpvc/?username=sugam1111&color=75eeb2)
